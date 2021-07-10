@@ -13,7 +13,7 @@ Some key characteristic of the PSPNet, which we discovered so far is:
 # pyramid pooling.
 For implementing this kind of network we need an API called arcgis.learn.
 https://developers.arcgis.com/python/api-reference/arcgis.learn.toc.html
-A another API is Deeplab.
+And another API is Deeplab.
 https://chainercv.readthedocs.io/en/stable/reference/links/deeplab.html
 
 
